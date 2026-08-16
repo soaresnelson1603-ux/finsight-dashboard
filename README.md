@@ -15,7 +15,7 @@ I build finance-focused analytical solutions that turn accounting and business d
 
 > **See my financial dashboards, analytics projects, visualizations and professional profile.**
 
-### 👉 [🔗 VIEW MY FINANCIAL ANALYTICS PORTFOLIO](YOUR_GITHUB_PAGES_URL)
+### 👉 [🔗 VIEW MY FINANCIAL ANALYTICS PORTFOLIO]( https://github.com/soaresnelson1603-ux/finsight-dashboard/blob/main/YOUR_GITHUB_PAGES_URL)
 
 The portfolio includes:
 
@@ -112,7 +112,7 @@ Interactive executive dashboard covering:
 - Business Unit Performance
 - Regional Performance
 
-👉 **[View the live dashboard](YOUR_GITHUB_PAGES_URL)**
+👉 **[View the live dashboard](https://soaresnelson1603-ux.github.io/finsight-dashboard/)**
 
 ---
 
@@ -177,7 +177,7 @@ Open to opportunities in:
 
 📱 **Phone:** +91 9970838156
 
-🌐 **Portfolio:** [View My Financial Analytics Portfolio](YOUR_GITHUB_PAGES_URL)
+🌐 **Portfolio:** [View My Financial Analytics Portfolio](https://soaresnelson1603-ux.github.io/finsight-dashboard/)
 
 ---
 
@@ -187,7 +187,7 @@ If you're reviewing my profile, I’d be happy to discuss opportunities involvin
 
 **Finance | Accounting | Financial Analytics | Business Intelligence | Power BI | Management Reporting | FP&A**
 
-### 👉 [Explore my interactive portfolio →](YOUR_GITHUB_PAGES_URL)
+### 👉 [Explore my interactive portfolio →]([YOUR_GITHUB_PAGES_URL](https://soaresnelson1603-ux.github.io/finsight-dashboard/)
 
 ---
 
