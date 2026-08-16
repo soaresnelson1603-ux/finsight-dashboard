@@ -1,5 +1,3 @@
-# finsight-dashboard
-# 
 # 👋 Hi, I'm Nelson Soares
 
 ### Finance Manager | Financial Accounting | Cost Accounting | Financial Analytics
